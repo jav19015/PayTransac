@@ -1,0 +1,6 @@
+{
+  "name": "ISO 8583 Studio - Simulateur & Composeur Monétique",
+  "description": "Atelier complet de configuration, encodage et validation des trames ISO 8583 (paiement contact, sans contact, piste, VAD, redressement), avec calcul de bitmap primaire/secondaire et analyseur de tags EMV TLV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
